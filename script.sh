@@ -2,5 +2,5 @@
 
 npm i &> /dev/null
 rm -rf spec
-mv ./testPackage/spec ./spec
+mv ./testPackage/answer/spec ./spec
 npm test
